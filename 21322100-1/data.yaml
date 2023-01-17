@@ -1,0 +1,19 @@
+names:
+- Bear
+- Cat
+- Cattle
+- Chicken
+- Dog
+- Elephant
+- Person
+- Pig
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: 21322100
+  url: https://universe.roboflow.com/213221/21322100/dataset/1
+  version: 1
+  workspace: 213221
+test: /content/yolov5/21322100-1/test
+train: /content/yolov5/21322100-1/train
+val: /content/yolov5/21322100-1
