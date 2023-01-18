@@ -196,4 +196,5 @@ In this study, a detection system was created that can identify some farm animal
 ## **6. LITERATURE**
 
 i.  Ultralytics. (2021): Train Custom Data. Retrieved October 4, 2021, from Ultralytics Github website: <https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data>
+
 ii. Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016): You only look once: Unified, real-time object detection. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). I
